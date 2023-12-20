@@ -71,3 +71,4 @@ if uploaded_file :
                 message(st.session_state["generated"][i], key=str(i), avatar_style="thumbs")
                 
 #streamlit run tuto_chatbot_csv.py
+
